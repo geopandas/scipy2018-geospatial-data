@@ -1,0 +1,9 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - geopandas
+  - geoplot
+  - pysal
+  - folium
+
