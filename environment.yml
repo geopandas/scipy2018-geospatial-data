@@ -6,4 +6,9 @@ dependencies:
   - geoplot
   - pysal
   - folium
-
+  - scikit-learn
+  - pip
+  - pip:
+    - contextily
+    - libpysal
+    - mgwr
