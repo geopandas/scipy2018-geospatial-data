@@ -12,3 +12,5 @@ dependencies:
     - contextily
     - libpysal
     - mgwr
+    - mapclassify
+    - esda
