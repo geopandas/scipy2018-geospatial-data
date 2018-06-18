@@ -78,3 +78,14 @@ your browser and click the green "Download" button in the upper right:
 
 ![](img/download-button.png)
 
+
+## Test the tutorial environment
+
+To make sure everything was installed correctly, open a terminal, and change its directory (`cd`) so that your working directory is the tutorial materials you downloaded in the step above. Then enter the following:
+
+```sh
+python check_environment.py
+```
+
+Make sure that this scripts prints "All good. Enjoy the tutorial!"
+
