@@ -1,3 +1,4 @@
+name: scipygeo18
 channels:
   - defaults
   - conda-forge
