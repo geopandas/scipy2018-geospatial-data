@@ -1,3 +1,4 @@
+name: scipygeo18
 channels:
   - defaults
   - conda-forge
@@ -12,3 +13,5 @@ dependencies:
     - contextily
     - libpysal
     - mgwr
+    - mapclassify
+    - esda
