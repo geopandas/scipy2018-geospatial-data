@@ -8,6 +8,7 @@ dependencies:
   - pysal
   - folium
   - scikit-learn
+  - rasterio
   - pip
   - pip:
     - contextily
