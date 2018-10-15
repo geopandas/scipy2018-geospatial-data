@@ -1,2 +1,2 @@
-import libpysal.api as lp
-w = lp.Rook.from_dataframe(pres)
+import libpysal as lp
+w = lp.weights.Rook.from_dataframe(pres)
