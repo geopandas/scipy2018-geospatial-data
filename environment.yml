@@ -1,14 +1,16 @@
 name: scipygeo18
 channels:
-  - defaults
   - conda-forge
 dependencies:
+  - python=3.7
   - geopandas
   - geoplot
   - pysal
   - folium
   - scikit-learn
   - rasterio
+  - jupyterlab
+  - pytest
   - pip
   - pip:
     - contextily
